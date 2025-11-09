@@ -1,0 +1,5 @@
+dotenv==0.9.9
+python-dotenv==1.2.1
+pytz==2025.2
+schedule==1.2.2
+slack_sdk==3.37.0
